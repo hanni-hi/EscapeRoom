@@ -1,0 +1,7 @@
+C:\Users\KGA\source\repos\ESCAPEROOM\ESCAPEROOM\bin\Debug\ESCAPEROOM.exe.config
+C:\Users\KGA\source\repos\ESCAPEROOM\ESCAPEROOM\bin\Debug\ESCAPEROOM.exe
+C:\Users\KGA\source\repos\ESCAPEROOM\ESCAPEROOM\bin\Debug\ESCAPEROOM.pdb
+C:\Users\KGA\source\repos\ESCAPEROOM\ESCAPEROOM\obj\Debug\ESCAPEROOM.csproj.AssemblyReference.cache
+C:\Users\KGA\source\repos\ESCAPEROOM\ESCAPEROOM\obj\Debug\ESCAPEROOM.csproj.CoreCompileInputs.cache
+C:\Users\KGA\source\repos\ESCAPEROOM\ESCAPEROOM\obj\Debug\ESCAPEROOM.exe
+C:\Users\KGA\source\repos\ESCAPEROOM\ESCAPEROOM\obj\Debug\ESCAPEROOM.pdb
